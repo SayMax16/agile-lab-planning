@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Lab test
-title: ''
+title: issue
 labels: ''
 assignees: ''
 
